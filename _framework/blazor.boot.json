@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "OptionPricingApp.Client",
   "resources": {
-    "hash": "sha256-IQjn774JaDUuZLAFZ8lOhq8VTx+t6TW7w8rxwOT6Ouo=",
+    "hash": "sha256-Nu3F7fMoF1T4nBCDO79s1gdT1SNcxkYh/NQozg79dMc=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.p99uy30qcy.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -216,10 +216,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "OptionPricingApp.Client.wasm": "sha256-NScjEi4BOnLC0QnEufvb0bdAGDtipQhHLLj81BiE10o="
+      "OptionPricingApp.Client.wasm": "sha256-pfibZiAwqnItrobq4pnn9FrHw3gTv19Wajyibpmvalg="
     },
     "pdb": {
-      "OptionPricingApp.Client.pdb": "sha256-tzIY6vxIUHeGNSE0s+XekBl4KH+Wqd3lnNj5iO4hI0o="
+      "OptionPricingApp.Client.pdb": "sha256-9Owd2Q9LnH5HIIDDxr89mMQDeTBlq+BnIi7FfbrTWCg="
     }
   },
   "cacheBootResources": true,
